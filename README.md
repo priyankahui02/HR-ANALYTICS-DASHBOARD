@@ -21,6 +21,7 @@ Provide interactive insights for HR decision making
 
 📊 Key Performance Indicators (KPIs)
 Metric	Value
+
 Total Employees	1470
 Total Attrition	237
 Attrition Rate	16.1%
